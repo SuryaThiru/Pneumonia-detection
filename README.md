@@ -9,3 +9,5 @@ The code for the image enhancement and feature extraction is available in the no
 ## Model development
 
 ![ROC auc](roc.png)
+
+Check the pdf of the report for more information
